@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.847003">
+<testcase classname="Verify login  functionality of Linkedin" name="As  a admin I should login with all access" time="16.847003">
+<system-out><![CDATA[Given the browser is launched and LinkedIn home page is opened..............passed
+When we enter the username and password.....................................passed
+And click on the Signin button..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
